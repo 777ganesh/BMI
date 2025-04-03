@@ -4,8 +4,6 @@
 
 - Designed an intuitive UI with real-time BMI calculation, weight category classification (Underweight, Normal, Overweight, Obese), and responsive styling.
 
-- Implemented interactive features like unit switching (kg/lbs, cm/ft) and dynamic result display based on user inputs.
-
 - Utilized React Hook(useState) for state management and Expo for streamlined development/deployment.
 
 - Followed clean code practices and modular component architecture for scalability.
